@@ -1,2 +1,2 @@
 # HDR-Project
-Deghosting, C++, Bitmap Movement Detection: HDR for Dynamic Scenes Pece &amp; Kautz
+A C++ ımplementation of Bitmap Movement Detection: HDR for Dynamic Scenes Pece &amp; Kautz Paper
