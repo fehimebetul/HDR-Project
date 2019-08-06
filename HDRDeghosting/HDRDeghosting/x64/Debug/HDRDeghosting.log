@@ -1,0 +1,17 @@
+﻿Build started 19/01/2019 00:01:00.
+     1>Project "C:\Users\Betul\Desktop\HDR_Project\HDRDeghosting\HDRDeghosting\HDRDeghosting.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Betul\Desktop\opencvCuda\build\install\include /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\betul\desktop\hdr_project\hdrdeghosting\hdrdeghosting\main.cpp(68): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\betul\desktop\hdr_project\hdrdeghosting\hdrdeghosting\main.cpp(94): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\betul\desktop\hdr_project\hdrdeghosting\hdrdeghosting\main.cpp(104): warning C4305: 'argument': truncation from 'double' to 'float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Betul\Desktop\HDR_Project\HDRDeghosting\x64\Debug\HDRDeghosting.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\Betul\Desktop\opencvCuda\build\install\x64\vc14\lib opencv_world400d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Betul\Desktop\HDR_Project\HDRDeghosting\x64\Debug\HDRDeghosting.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Betul\Desktop\HDR_Project\HDRDeghosting\x64\Debug\HDRDeghosting.lib" /MACHINE:X64 x64\Debug\DeghostingPeceKautz.obj
+         x64\Debug\main.obj
+         HDRDeghosting.vcxproj -> C:\Users\Betul\Desktop\HDR_Project\HDRDeghosting\x64\Debug\HDRDeghosting.exe
+     1>Done Building Project "C:\Users\Betul\Desktop\HDR_Project\HDRDeghosting\HDRDeghosting\HDRDeghosting.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00
